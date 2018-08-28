@@ -1,0 +1,5 @@
+/target/
+application-development.properties
+.idea
+.mvn
+*.iml
